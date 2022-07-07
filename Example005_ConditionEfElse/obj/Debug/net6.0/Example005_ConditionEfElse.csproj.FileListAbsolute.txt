@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\bin\Debug\net6.0\Example005_ConditionEfElse.exe
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\bin\Debug\net6.0\Example005_ConditionEfElse.deps.json
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\bin\Debug\net6.0\Example005_ConditionEfElse.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\bin\Debug\net6.0\Example005_ConditionEfElse.dll
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\bin\Debug\net6.0\Example005_ConditionEfElse.pdb
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\Example005_ConditionEfElse.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\Example005_ConditionEfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\Example005_ConditionEfElse.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\Example005_ConditionEfElse.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\Example005_ConditionEfElse.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\Example005_ConditionEfElse.dll
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\refint\Example005_ConditionEfElse.dll
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\Example005_ConditionEfElse.pdb
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\Example005_ConditionEfElse.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\Обучение\Си шарп\Examples\Example005_ConditionEfElse\obj\Debug\net6.0\ref\Example005_ConditionEfElse.dll
